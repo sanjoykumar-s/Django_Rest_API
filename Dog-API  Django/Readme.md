@@ -3,7 +3,7 @@ This is a Django_Rest_Api which can store informations about dogs.
 
 ## Installation
 ```
-git clone https://github.com/asif17r/Django-Rest-Api
+git clone https://github.com/sanjoykumar-s/Django_Rest_API/edit/main/Dog-API%20%20Django
 cd Django-Rest-Api
 pip install -r requirements.txt
 python manage.py runserver 
